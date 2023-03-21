@@ -18,8 +18,4 @@ int main(void)
         }
         counter_test++;
     }
-    
-    
-    
-
 }
