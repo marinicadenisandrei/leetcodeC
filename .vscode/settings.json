@@ -1,0 +1,28 @@
+{
+    "files.associations": {
+        "stdlib.h": "c",
+        "stdbool.h": "c",
+        "stdio.h": "c",
+        "math.h": "c",
+        "numeric": "c",
+        "array": "c",
+        "functional": "c",
+        "string.h": "c",
+        "algorithm": "c",
+        "ostream": "cpp",
+        "sstream": "cpp",
+        "iosfwd": "cpp",
+        "iostream": "cpp",
+        "stdint.h": "c",
+        "system_error": "c",
+        "tuple": "c",
+        "type_traits": "c",
+        "utility": "c",
+        "string_view": "c",
+        "initializer_list": "c",
+        "string": "c",
+        "vector": "cpp",
+        "limits": "c",
+        "random": "c"
+    }
+}
