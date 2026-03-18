@@ -67,16 +67,16 @@ int kthSmallest(int matrixVar[ARRAY_SIZE][ARRAY_SIZE], int matrixSizeVar, int ma
 
 void reset () {
     printf("\033[1;0m");
-  }
-  
-  void green () {
+}
+
+void green () {
     printf("\033[1;32m");
-  }
-  
-  void yellow () {
+}
+
+void yellow () {
     printf("\033[1;33m");
-  }
-  
-  void red () {
+}
+
+void red () {
     printf("\033[1;31m");
-  }
+}
