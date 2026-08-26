@@ -1,3 +1,5 @@
+/* Leetcode - 483. Smallest Good Base (C language) - Hard*/
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <stdbool.h>
